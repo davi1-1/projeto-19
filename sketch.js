@@ -152,6 +152,7 @@ function draw() {
       pinkCG.destroyEach();
       yellowCG.destroyEach();
       redCG.destroyEach();
+      distance = 0;
     }
 }
 }
